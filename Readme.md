@@ -1,3 +1,8 @@
+# Description
+
+API to create stores, items in the store, User authenication.
+Implemented using Flask.
+
 # Requirements
 
 ```
@@ -10,8 +15,4 @@ pip install Werkzeug
 pip installwincertstore
 ```
 
-# Description
-
-API to create stores, items in the store, User authenication.
-Implemented using Flask.
 
